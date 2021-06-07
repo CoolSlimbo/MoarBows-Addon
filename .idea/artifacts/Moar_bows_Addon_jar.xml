@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Moar bows Addon:jar">
+    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <root id="archive" name="Moar bows Addon.jar">
+      <element id="module-output" name="Moar bows Addon" />
+    </root>
+  </artifact>
+</component>

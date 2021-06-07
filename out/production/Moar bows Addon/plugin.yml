@@ -1,0 +1,6 @@
+name: MoarBows Add
+version: 1.0.0
+author: Slimbo
+main: com.slimbo.moarBows.add
+api-version: 1.14
+depend: MoarBows
