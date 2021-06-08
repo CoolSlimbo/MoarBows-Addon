@@ -2,8 +2,11 @@
   <library name="MoarBows-2.5.5">
     <CLASSES>
       <root url="jar://$USER_HOME$/Documents/MoarBows-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MoarBows Fixed/MoarBows Fixed.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../MoarBows Fixed/MoarBows Fixed.jar!/" />
+    </SOURCES>
   </library>
 </component>
